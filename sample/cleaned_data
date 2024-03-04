@@ -1,0 +1,372 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>name</th>
+      <th>base_price</th>
+      <th>display_uom</th>
+      <th>average_uom</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Honeycrisp Apple</td>
+      <td>1.00</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Organic Honeycrisp Apple</td>
+      <td>1.68</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Organic Honeycrisp Apples Bag</td>
+      <td>5.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Gala Apple</td>
+      <td>0.69</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Pink Lady Apple</td>
+      <td>0.68</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Granny Smith Apple</td>
+      <td>0.84</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Organic Gala Apples Bag</td>
+      <td>3.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Organic Fuji Apple</td>
+      <td>1.07</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Fuji Apple</td>
+      <td>0.74</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Organic Pink Lady Apples Bag</td>
+      <td>4.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Organic Banana</td>
+      <td>0.28</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Covilli Organic Sundowner Apples Bag</td>
+      <td>4.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Cosmic Crisp Apple</td>
+      <td>1.39</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Organic Pink Lady Apple</td>
+      <td>0.92</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>SweeTango Apple</td>
+      <td>1.20</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Chelan Fresh SugarBee Apples Bag</td>
+      <td>4.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Organic Mandarins Bag</td>
+      <td>4.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Strawberries</td>
+      <td>4.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Organic Gala Apple</td>
+      <td>0.95</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Organic Rockit Apples Tub</td>
+      <td>9.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Mandarins Bag</td>
+      <td>5.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Organic Raspberry Oranges Punnet, 4 Count</td>
+      <td>4.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Organic SugarBee Apples Bag</td>
+      <td>5.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Blueberries</td>
+      <td>3.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Celery</td>
+      <td>1.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Banana</td>
+      <td>0.25</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Blackberries</td>
+      <td>3.49</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Envy Apple</td>
+      <td>1.25</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Organic Large Hass Avocado</td>
+      <td>2.50</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Red White Flesh Dragon Fruit</td>
+      <td>4.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Organic Strawberries</td>
+      <td>6.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Lemon</td>
+      <td>0.75</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Mini Watermelon</td>
+      <td>4.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Pink Grapefruit</td>
+      <td>1.25</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Baby Carrots Bag</td>
+      <td>1.29</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Raspberries</td>
+      <td>3.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Sumo Citrus Mandarins</td>
+      <td>2.79</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Stemilt World Famous Fruit Organic Granny Smith Apples Punnet, 4 Count</td>
+      <td>4.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Golden Delicious Apple</td>
+      <td>0.41</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Lemonade Apple</td>
+      <td>2.49</td>
+      <td>lb</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Lime</td>
+      <td>0.50</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Cara Cara Orange</td>
+      <td>1.00</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Red Mango</td>
+      <td>2.00</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Large Navel Orange</td>
+      <td>0.81</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Organic Blueberries</td>
+      <td>6.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Star Fruit</td>
+      <td>2.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Pomegranate</td>
+      <td>3.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Stemilt World Famous Fruit Organic Fuji Apples Punnet, 4 Count</td>
+      <td>4.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Sumo Citrus Mandarins Bag</td>
+      <td>6.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Cotton Candy Grapes</td>
+      <td>4.99</td>
+      <td>lb</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Sugarbee Apple</td>
+      <td>1.23</td>
+      <td>ea</td>
+      <td>lb</td>
+    </tr>
+    <tr>
+      <td>Cantaloupe</td>
+      <td>3.49</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Organic Cucumber</td>
+      <td>1.50</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Stemilt World Famous Fruit Organic Cosmic Crisp Apple Punnet, 4 Count</td>
+      <td>5.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Yellow Mango</td>
+      <td>1.25</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Passion Fruit</td>
+      <td>2.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Jumbo Blueberries</td>
+      <td>6.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Mighties Organic Kiwis</td>
+      <td>3.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Cucumber</td>
+      <td>0.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>Pomegranate Arils</td>
+      <td>5.99</td>
+      <td>ea</td>
+      <td>NaN</td>
+    </tr>
+  </tbody>
+</table>
